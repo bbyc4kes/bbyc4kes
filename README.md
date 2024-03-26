@@ -8,24 +8,19 @@
 
 <br>
 
-⠀╱|、 ㅤ the road wasn't long,<br>
-(˚ˎ 。7 ㅤ and i knew i'd be getting off soon but at that moment,<br>
-|、˜〵 ㅤ i felt such warmth<br>
-じしˍ,)ノ<br>
-<br>
 
 
 Hi, my name is [Maksym Azimov](https://www.abhishekmaira.com/), but you can call me Max. I'm a Full-stack React Developer developer 👨🏻‍💻 from Ukraine based in Czech Republic. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for different neat react concepts. I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play chess ♘ and play music instuments 🎹.
 
 
 <br>
-
-
-<!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
-<!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
-
-
- - 📫 How to reach me: [azimov.workspace@gmail.com](mailto:azimov.workspace@gmail.com)
+<br>
+⠀╱|、 ㅤ the road wasn't long,<br>
+(˚ˎ 。7 ㅤ and i knew i'd be getting off soon but at that moment,<br>
+|、˜〵 ㅤ i felt such warmth<br>
+じしˍ,)ノ<br>
+<br>
+📫 How to reach me: [azimov.workspace@gmail.com](mailto:azimov.workspace@gmail.com)
  
  <br>
 

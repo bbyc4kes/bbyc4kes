@@ -1,4 +1,3 @@
-~<img src="https://media.tenor.com/x8znY78QrWwAAAAi/surprised-shocked.gif" width="30"/>~
 <p align="left">
 <a href="https://www.linkedin.com/in/maksym-azimov-770aa22aa/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/bbycakeslovesnature/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -9,7 +8,7 @@
 
 
 
-Hi, my name is [Maksym Azimov](https://www.linkedin.com/in/maksym-azimov-770aa22aa), but you can call me Max. I'm a Full-stack React Developer developer 👨🏻‍💻 from Ukraine based in Czech Republic. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for different neat react concepts. I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play chess ♘ and play music instuments 🎹.
+Hi, my name is [Maksym Azimov](https://www.linkedin.com/in/maksym-azimov-770aa22aa), but you can call me Max. I'm a Full-stack React Developer developer 👨🏻‍💻 from Ukraine based in Czech Republic. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for different neat react concepts. I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play chess ♘ and play music instuments <img src="https://media.tenor.com/x8znY78QrWwAAAAi/surprised-shocked.gif" width="30"/>.
 
 <br>
 <br>

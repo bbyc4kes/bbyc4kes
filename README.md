@@ -9,7 +9,7 @@
 
 
 
-Hi, my name is [Maksym Azimov](https://www.abhishekmaira.com/), but you can call me Max. I'm a Full-stack React Developer developer 👨🏻‍💻 from Ukraine based in Czech Republic. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for different neat react concepts. I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play chess ♘ and play music instuments 🎹.
+Hi, my name is [Maksym Azimov](https://www.linkedin.com/in/maksym-azimov-770aa22aa), but you can call me Max. I'm a Full-stack React Developer developer 👨🏻‍💻 from Ukraine based in Czech Republic. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for different neat react concepts. I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play chess ♘ and play music instuments 🎹.
 
 <br>
 <br>
@@ -18,7 +18,7 @@ Hi, my name is [Maksym Azimov](https://www.abhishekmaira.com/), but you can call
 |、˜〵 ㅤ i felt such warmth<br>
 じしˍ,)ノ<br>
 <br>
-📫 How to reach me: [azimov.workspace@gmail.com](mailto:azimov.workspace@gmail.com)
+📫 How to reach me: [azimov.workspace@gmail.com](mailto:azimov.workspace@gmail.com?subject=[GitHub])
 
  
  <br> 

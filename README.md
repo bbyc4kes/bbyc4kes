@@ -18,7 +18,7 @@ Hi, my name is [Maksym Azimov](https://www.abhishekmaira.com/), but you can call
 |、˜〵 ㅤ i felt such warmth<br>
 じしˍ,)ノ<br>
 <br>
-📫 How to reach me: [azimov.workspace@gmail.com](mailto:azimov.workspace@gmail.com)[abhishekmaira1999@gmail.com](mailto:abhishekmaira1999@gmail.com)
+📫 How to reach me: [azimov.workspace@gmail.com](mailto:azimov.workspace@gmail.com)
 
  
  <br> 

@@ -1,4 +1,4 @@
-<h1>~<img src="https://media.tenor.com/x8znY78QrWwAAAAi/surprised-shocked.gif" width="30"/>~<img src="https://media.tenor.com/x8znY78QrWwAAAAi/surprised-shocked.gif" width="30"/>~<img src="https://media.tenor.com/x8znY78QrWwAAAAi/surprised-shocked.gif" width="30"/>~</h1>
+<h1>~<img src="https://media.tenor.com/x8znY78QrWwAAAAi/surprised-shocked.gif" width="30"/>~</h1>
 <p align="left">
 <a href="https://www.linkedin.com/in/maksym-azimov-770aa22aa/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/bbycakeslovesnature/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

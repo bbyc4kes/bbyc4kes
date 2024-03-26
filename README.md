@@ -21,10 +21,7 @@ Hi, my name is [Maksym Azimov](https://www.abhishekmaira.com/), but you can call
 <br>
 📫 How to reach me: [azimov.workspace@gmail.com](mailto:azimov.workspace@gmail.com)
  
- <br>
-
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bbyc4kes" alt="bbyc4kes" /> </p>
- 
+ <br> 
  </br>
 
 **Languages and Tools:**
@@ -85,3 +82,4 @@ Hi, my name is [Maksym Azimov](https://www.abhishekmaira.com/), but you can call
 
 ### Show some ❤️ by starring some of the repositories!
 </div>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=bbyc4kes" alt="bbyc4kes" /> </p>

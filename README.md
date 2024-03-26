@@ -18,7 +18,7 @@ Hi, my name is [Maksym Azimov](https://www.linkedin.com/in/maksym-azimov-770aa22
 |、˜〵 ㅤ i felt such warmth<br>
 じしˍ,)ノ<br>
 <br>
-📫 How to reach me: [azimov.workspace@gmail.com](mailto:azimov.workspace@gmail.com?subject=[GitHub])
+📫 How to reach me: [azimov.workspace@gmail.com](mailto:azimov.workspace@gmail.com)
 
  
  <br> 

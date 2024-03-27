@@ -35,6 +35,7 @@ Hi, my name is [Maksym Azimov](https://www.linkedin.com/in/maksym-azimov-770aa22
 <code><img height="20" width="20" src="https://cdn.simpleicons.org/mongodb" /></code>
 <code><img height="20" width="20" src="https://cdn.simpleicons.org/mysql/white" /></code>
 <code><img height="20" width="20" src="https://cdn.simpleicons.org/visualstudiocode" /></code>
+<code><img height="20" width="20" src="https://cdn.simpleicons.org/html5" /></code>
 <code><img height="20" width="20" src="https://cdn.simpleicons.org/css3" /></code>
 <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" width="20" src="https://cdn.simpleicons.org/axios" /></code>

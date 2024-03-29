@@ -7,7 +7,7 @@
 <br>
 
 
-Hi 👋, my name is [Maksym Azimov](https://www.linkedin.com/in/maksym-azimov-770aa22aa), but you can call me Max. I'm a Full-stack React Developer from Ukraine 🇺🇦 based in Czech Republic 🇨🇿👨🏻‍💻. I'm a creative problem solving enthusiast and a productive guy, with a constantly growing love for different neat programming concepts. I'm proud to say that **I can succesfully center an element with css.** Besides Hacking stuff, I play chess ♘ and play music instuments.
+Hi 👋, my name is [Maksym Azimov](https://www.linkedin.com/in/maksym-azimov-770aa22aa), but you can call me Max. I'm a Full-stack React Developer from Ukraine 🇺🇦 based in Czech Republic 🇨🇿👨🏻‍💻. I'm a creative problem solving enthusiast and a productive guy, with a constantly growing love for different neat programming concepts 🩵 I'm proud to say that **I can succesfully center an element with css.** Besides Hacking stuff, I watch movies and listen to a lot of music 🎶.
 
 <br>
 <br>

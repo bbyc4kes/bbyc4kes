@@ -47,6 +47,8 @@ Hi, my name is [Maksym Azimov](https://www.linkedin.com/in/maksym-azimov-770aa22
 <code><img height="20" width="20" src="https://cdn.simpleicons.org/ejs" /></code>
 <code><img height="20" width="20" src="https://cdn.simpleicons.org/passport" /></code>
 <code><img height="20" width="20" src="https://cdn.simpleicons.org/mapbox/white" /></code>
+<code><img height="20" width="20" src="https://cdn.simpleicons.org/clerk" /></code>
+<code><img height="20" width="20" src="https://cdn.simpleicons.org/shadcnui/white" /></code>
 <code><img height="20" width="20" src="https://cdn.simpleicons.org/mongoose" /></code>
 <code><img height="20" width="20" src="https://cdn.simpleicons.org/github/white" /></code>
 <code><img height="20" width="20" src="https://cdn.simpleicons.org/git" /></code>

@@ -9,6 +9,8 @@
 
 Hi 👋, my name is [Maksym Azimov](https://www.linkedin.com/in/maksym-azimov-770aa22aa), but you can call me Max. I'm a Full-stack React Developer from Ukraine 🇺🇦 based in Czechia 🇨🇿👨🏻‍💻. I'm a creative problem solving enthusiast and a productive guy, with a constantly growing love for different neat programming concepts 🩵 Besides Web Development, I really enjoy watching a lot of movies and listening to different kinds of music 🎶.
 
+📫 How to reach me: [azimov.workspace@gmail.com](mailto:azimov.workspace@gmail.com)
+
 <br>
 <br>
 ⠀╱|、 ㅤ the road wasn't long,<br>
@@ -16,7 +18,6 @@ Hi 👋, my name is [Maksym Azimov](https://www.linkedin.com/in/maksym-azimov-77
 |、˜〵 ㅤ i felt such warmth<br>
 じしˍ,)ノ<br>
 <br>
-📫 How to reach me: azimov.workspace@gmail.com
 
  
  <br> 
@@ -56,37 +57,21 @@ Hi 👋, my name is [Maksym Azimov](https://www.linkedin.com/in/maksym-azimov-77
 
 
 ---
-### 📢 Find me elsewhere
 
-  
-  <a href="https://leetcode.com/anthoniotheruiner/">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.codewars.com/users/bbycakes">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
-  </a> &nbsp;&nbsp;&nbsp;
-</p>
-
-<hr>
-
-<details>
-<summary>📈 My GitHub Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bbyc4kes&show_icons=true&theme=gotham" alt="bbyc4kes" />
-
-</details>
 
 </br>
 
 <a href="https://github.com/bbyc4kes/car-catalog-NEXT.js" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bbyc4kes&repo=car-catalog-NEXT.js&theme=dracula" />
 </a>
+<a href="https://github.com/bbyc4kes/file-drive" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bbyc4kes&repo=file-drive&theme=dracula" />
+</a>
 <a href="https://github.com/bbyc4kes/campwithus" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bbyc4kes&repo=campwithus&theme=dracula" />
 </a>
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring ⭐ some of the repositories!
 </div>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=bbyc4kes" alt="bbyc4kes" /> </p>

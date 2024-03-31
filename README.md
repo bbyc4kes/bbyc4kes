@@ -70,6 +70,9 @@ Hi 👋, my name is [Maksym Azimov](https://www.linkedin.com/in/maksym-azimov-77
 <a href="https://github.com/bbyc4kes/campwithus" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bbyc4kes&repo=campwithus&theme=dracula" />
 </a>
+<a href="https://github.com/bbyc4kes/project-management-project" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bbyc4kes&repo=project-management-project&theme=dracula" />
+</a>
 <div align="center">
 
 ### Show some ❤️ by starring ⭐ some of the repositories!

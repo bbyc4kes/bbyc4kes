@@ -1,24 +1,28 @@
-<p align="center">
+
+
 <a href="https://www.linkedin.com/in/maksym-azimov-770aa22aa/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/bbycakeslovesnature/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/4m2f44n3a8hfcbxr5wem3gigb?si=08be8d7975d94fa9" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+<p>Hi 👋, my name is Maksym Azimov, but you can call me Max. I'm a Full-stack React Developer from Ukraine 🇺🇦 based in Czechia 🇨🇿👨🏻‍💻</p>
 
-<br>
-
-
-#### <p align="center">Hi 👋, my name is [Maksym Azimov](https://www.linkedin.com/in/maksym-azimov-770aa22aa), but you can call me Max. I'm a Full-stack React Developer from Ukraine 🇺🇦 based in Czechia 🇨🇿👨🏻‍💻. I'm a creative problem solving enthusiast and a productive guy, with a constantly growing love for different neat programming concepts 🩵 Besides Web Development, I really enjoy watching a lot of movies and listening to different kinds of music 🎶.</p>
-
-
-#### 📫 How to reach me: [azimov.workspace@gmail.com](mailto:azimov.workspace@gmail.com)
-
-<br>
+ <br>
 <br>
 ⠀╱|、 ㅤ the road wasn't long,<br>
 (˚ˎ 。7 ㅤ and i knew i'd be getting off soon but at that moment,<br>
 |、˜〵 ㅤ i felt such warmth<br>
 じしˍ,)ノ<br>
 <br>
+
+
+
+<br>
+
+
+
+
+#### 📫 How to reach me: [azimov.workspace@gmail.com](mailto:azimov.workspace@gmail.com)
+
+
 
  
  <br> 

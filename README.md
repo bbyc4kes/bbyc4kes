@@ -56,11 +56,17 @@ I'm a Full-stack React Developer from Ukraine 🇺🇦 based in Czechia 🇨🇿
 <a href="https://github.com/bbyc4kes/car-catalog-NEXT.js" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bbyc4kes&repo=car-catalog-NEXT.js&theme=dracula" />
 </a>
+<a href="https://github.com/bbyc4kes/portfolio" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bbyc4kes&repo=portfolio&theme=dracula" />
+</a>
+<a href="https://github.com/bbyc4kes/todos" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bbyc4kes&repo=todos&theme=dracula" />
+</a>
 <a href="https://github.com/bbyc4kes/campwithus" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bbyc4kes&repo=campwithus&theme=dracula" />
 </a>
-<a href="https://github.com/bbyc4kes/project-management-project" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bbyc4kes&repo=project-management-project&theme=dracula" />
+<a href="https://github.com/bbyc4kes/reactfood" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bbyc4kes&repo=reactfood&theme=dracula" />
 </a>
 <div align="center">
 

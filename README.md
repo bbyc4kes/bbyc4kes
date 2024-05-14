@@ -14,7 +14,7 @@ I'm a Full-stack React Developer from Ukraine 🇺🇦 based in Czechia 🇨🇿
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=LinkedIn&labelColor=0A66C2&logoColor=white)](https://www.linkedin.com/in/maksym-azimov-770aa22aa/)
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=for-the-badge&logo=Telegram&labelColor=2CA5E0&logoColor=white)](https://t.me/bbyc4kes)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=Gmail&labelColor=EA4335&logoColor=white)](mailto:your.email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=Gmail&labelColor=EA4335&logoColor=white)](mailto:azimov.workspace@gmail.com)
 <br> 
  </br>
 #### MAIN TECHNOLOGIES:

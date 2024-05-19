@@ -71,6 +71,7 @@ I'm a Full-stack React Developer from Ukraine 🇺🇦 based in Czechia 🇨🇿
 <div align="center">
 
 </div>
+<br/>
  <p align="right"> <img src="https://komarev.com/ghpvc/?username=bbyc4kes" alt="bbyc4kes" /> </p>
 
 

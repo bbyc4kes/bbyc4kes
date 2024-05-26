@@ -1,5 +1,5 @@
-### <p align="center"> HI 👋,</p>
-### <p align="center"> MY NAME IS MAKSYM!</p>
+### <p align="center"> HI 👋,  MY NAME IS MAKSYM!</p>
+
 </br>
 I'm a Full-stack React Developer from Ukraine 🇺🇦 based in Czechia 🇨🇿👨🏻‍💻. I've had multiple experiences working on Full-stack and Front-end Web Appliactions. My current stack is TypeScript, Next.js, Express.js, Node.js and MongoDB. I'm also currently studying PostgreSQL and Prisma. Consistent studying is a crucial thing for me in my journey. I really enjoy learning new technologies and building fun stuff using various tools and implementing AI into my projects. </p>
 

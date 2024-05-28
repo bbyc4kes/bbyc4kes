@@ -1,7 +1,7 @@
 ### <p align="center"> HI 👋,  MY NAME IS MAKSYM!</p>
 
 </br>
-I'm a Full-stack Developer from Ukraine 🇺🇦 based in Czechia 🇨🇿👨🏻‍💻. I've had multiple experiences working on Full-stack and Front-end Web Appliactions. My current stack is TypeScript, Next.js, Express.js, Node.js and MongoDB. I'm also gaining budding proficiency in MySQL, PostgreSQL and Prisma. Consistent studying is a crucial thing for me in my journey. I really enjoy learning new technologies and building fun stuff using various tools and implementing AI into my projects. </p>
+<p align="center">I'm a Full-stack Developer from Ukraine 🇺🇦 based in Czechia 🇨🇿👨🏻‍💻. I've had multiple experiences working on Full-stack and Front-end Web Appliactions. My current stack is TypeScript, Next.js, Express.js, Node.js and MongoDB. I'm also gaining budding proficiency in MySQL, PostgreSQL and Prisma. Consistent studying is a crucial thing for me in my journey. I really enjoy learning new technologies and building fun stuff using various tools and implementing AI into my projects. </p>
 
  <br>
 <br>
@@ -28,6 +28,7 @@ I'm a Full-stack Developer from Ukraine 🇺🇦 based in Czechia 🇨🇿👨�
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&labelColor=black&color=339933)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=black&color=47A248)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&labelColor=black&color=336791)
+![PostgreSQL](https://img.shields.io/badge/MySQL-336791?style=for-the-badge&logo=mysql&labelColor=black&color=336791)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&labelColor=black&color=2D3748)
 ![Static Badge](https://img.shields.io/badge/Redux-FFFFFF?style=for-the-badge&logo=Redux&labelColor=black&color=violet)
 ![Static Badge](https://img.shields.io/badge/Mongoose-FFFFFF?style=for-the-badge&logo=Mongoose&labelColor=black&color=%23800)

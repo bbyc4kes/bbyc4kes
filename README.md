@@ -1,7 +1,7 @@
 ### <p align="center"> HI 👋,  MY NAME IS MAKSYM!</p>
 
 </br>
-<p align="center">I'm a Full-stack Developer from Ukraine 🇺🇦 based in Czechia 🇨🇿👨🏻‍💻. I've had multiple experiences working on Full-stack and Front-end Web Appliactions. My current stack is TypeScript, Next.js, Express.js, Node.js and MongoDB. I'm also gaining budding proficiency in MySQL, PostgreSQL and Prisma. Consistent studying is a crucial thing for me in my journey. I really enjoy learning new technologies and building fun stuff using various tools and implementing AI into my projects. </p>
+<p align="center">I'm a Full Stack Developer from Ukraine 🇺🇦 based in Czechia 🇨🇿👨🏻‍💻. I've had multiple experiences working on Full-stack and Front-end Web Appliactions. My current stack is TypeScript, Next.js, Express.js, Node.js and MongoDB. I'm also gaining budding proficiency in MySQL, PostgreSQL and Prisma. Consistent studying is a crucial thing for me in my journey. I really enjoy learning new technologies and building fun stuff using various tools and implementing AI into my projects. </p>
 
  <br>
 <br>

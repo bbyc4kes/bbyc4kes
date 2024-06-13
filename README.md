@@ -36,6 +36,7 @@ A deep dive into essential functionality of every thing I touch is very engaging
 ![Headless UI](https://img.shields.io/badge/Headless_UI-38B2AC?style=for-the-badge&labelColor=black&color=38B2AC)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&labelColor=black&color=0055FF)
 ![Static Badge](https://img.shields.io/badge/Styled%20components-FFFFFF?style=for-the-badge&logo=Styled%20Components&labelColor=black&color=rgb(191%2C%2079%2C%20116))
+![Static Badge](https://img.shields.io/badge/Sass-FFFFFF?style=for-the-badge&logo=Sass&labelColor=black&color=rgb(204%2C%20102%2C%20153))
 ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-FFFFFF?style=for-the-badge&logo=Tailwind%20CSS&labelColor=black&color=rgb(56%20189%20248))
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-00BFFF?style=for-the-badge&logo=cloudinary&labelColor=black&color=00BFFF)
 ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windows-terminal&labelColor=black&color=000000)

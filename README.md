@@ -47,6 +47,3 @@ A deep dive into essential functionality of every thing I touch is very engaging
 
 
 <br>
-
-
-

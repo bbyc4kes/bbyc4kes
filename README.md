@@ -48,33 +48,4 @@ A deep dive into essential functionality of every thing I touch is very engaging
 <br>
 
 
----
-
-
-</br>
-
-<a href="https://github.com/bbyc4kes/file-drive" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bbyc4kes&repo=file-drive&theme=dracula" />
-</a>
-<a href="https://github.com/bbyc4kes/portfolio" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bbyc4kes&repo=portfolio&theme=dracula" />
-</a>
-<a href="https://github.com/bbyc4kes/todos" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bbyc4kes&repo=todos&theme=dracula" />
-</a>
-<a href="https://github.com/bbyc4kes/surge" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bbyc4kes&repo=surge&theme=dracula" />
-</a>
-<a href="https://github.com/bbyc4kes/car-catalog-NEXT.js" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bbyc4kes&repo=car-catalog-NEXT.js&theme=dracula" />
-</a>
-<a href="https://github.com/bbyc4kes/campwithus" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bbyc4kes&repo=campwithus&theme=dracula" />
-</a>
-<div align="center">
-
-</div>
-<br/>
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=bbyc4kes" alt="bbyc4kes" /> </p>
-
 

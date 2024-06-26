@@ -1,7 +1,7 @@
 ### <p align="center"> HI 👋,  MY NAME IS MAKSYM!</p>
 
 </br>
-<p align="center">I'm a Full Stack Developer from Ukraine 🇺🇦 based in Czechia 🇨🇿👨🏻‍💻 with expertise in TypeScript, React, Next.js, Node.js, and database technologies (MongoDB/PostgreSQL/MySQL) utilizing Prisma for efficient data access.</br>
+<p align="left">I'm a Software Engineer from Ukraine 🇺🇦 based in Czechia 🇨🇿👨🏻‍💻 with expertise in TypeScript, React, Next.js, Node.js, and database technologies (MongoDB/PostgreSQL/MySQL) utilizing Prisma for efficient data access.</br>
 A deep dive into essential functionality of every thing I touch is very engaging to me, I really like to know HOW things work 🙇🏻‍♂️</br> Besides building and following coding stuff I'm a huge fan of cinema 🎥, music 🎧 and nature🌲🌳</br></p>
 
  <br>
@@ -11,6 +11,16 @@ A deep dive into essential functionality of every thing I touch is very engaging
 |、˜〵 ㅤ i felt such warmth<br>
 じしˍ,)ノ<br>
 <br>
+
+
+<p>
+  <img src="https://github-readme-stats-kv.vercel.app/api?username=bbyc4kes&theme=github_dark&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Maksym's github-readme-stats"/>
+  <img src="https://github-readme-streak-stats-kv.vercel.app?user=bbyc4kes&theme=tokyonight_duo&hide_border=true" width="48%" alt="Vatsal's github-readme-streak-stats"/>
+</p>
+
+<p>
+  <img width="38%" src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=bbyc4kes&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="bbyc4kes" />
+</p>
 
 #### HIT ME UP:
 

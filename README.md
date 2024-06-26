@@ -15,7 +15,7 @@ A deep dive into essential functionality of every thing I touch is very engaging
 
 <p>
   <img src="https://github-readme-stats-kv.vercel.app/api?username=bbyc4kes&theme=github_dark&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Maksym's github-readme-stats"/>
-  <img src="https://github-readme-streak-stats-kv.vercel.app?user=bbyc4kes&theme=tokyonight_duo&hide_border=true" width="48%" alt="Vatsal's github-readme-streak-stats"/>
+  <img src="https://github-readme-streak-stats-kv.vercel.app?user=bbyc4kes&theme=tokyonight_duo&hide_border=true" width="48%" alt="Maksym's github-readme-streak-stats"/>
 </p>
 
 <p>

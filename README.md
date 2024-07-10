@@ -4,7 +4,7 @@
 <p align="left">I'm a Software Engineer from Ukraine 🇺🇦 based in Czechia 🇨🇿👨🏻‍💻 with expertise in TypeScript, React, Next.js, Node.js, and database technologies (MongoDB/PostgreSQL/MySQL) utilizing Prisma for efficient data access.</br>
 A deep dive into essential functionality of every thing I touch is very engaging to me, I really like to know HOW things work 🙇🏻‍♂️</br> Besides building and following coding stuff I'm a huge fan of cinema 🎥, music 🎧 and nature🌲🌳</br></p>
 
- <br>
+<br>
 <br>
 ⠀╱|、 ㅤ the road wasn't long,<br>
 (˚ˎ 。7 ㅤ and i knew i'd be getting off soon but at that moment,<br>

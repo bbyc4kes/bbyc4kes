@@ -2,7 +2,7 @@
 
 </br>
 <p align="left">I'm a Software Engineer with expertise in TypeScript, React, Next.js, Node.js and database technologies utilizing Prisma for efficient data access.</br>
-A deep dive into essential functionality of every thing I touch is very engaging to me, I really like to know HOW things work 🙇🏻‍♂️</br> Besides building and following coding stuff I'm a huge fan of cinema 🎥, music 🎧 and nature🌲🌳</br></p>
+A deep dive into essential functionality of every thing I touch is very engaging to me, I really like to know HOW things work 🙇🏻‍♂️</br> Besides building and following coding stuff I'm a huge fan of cinema 🎥, music 🎧 and nature🌲🌳</p>
 
 <br>
 <br>

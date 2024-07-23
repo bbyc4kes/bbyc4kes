@@ -2,7 +2,7 @@
 
 </br>
 <p align="left">I'm a <b>Self-Taught Full Stack Developer</b> with expertise in TypeScript, React, Next.js, Node.js and database technologies utilizing Prisma for efficient data access. My background consists of strong <b>Networking</b> and <b>Web Development</b> knowledge. Essentially, <b>JS</b> & it's <b>ecosystem</b> is my strong side.
-A deep dive into essential functionality of every thing I touch is very engaging to me,</p></br> I really like to know <b>HOW</b> things work 🙇🏻‍♂️</br> Besides building and following coding stuff I'm a huge fan of cinema 🎥, music 🎧 and nature🌲🌳</p>
+A deep dive into essential functionality of every thing I touch is very engaging to me,</br> I really like to know <b>HOW</b> things work 🙇🏻‍♂️</br> Besides building and following coding stuff I'm a huge fan of cinema 🎥, music 🎧 and nature🌲🌳</p>
 
 <br>
 <br>

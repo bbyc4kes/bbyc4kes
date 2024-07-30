@@ -1,24 +1,22 @@
-### <p align="center"> HI 👋,  MY NAME IS MAKSYM!</p>
+### <p align="left"> HI 👋,  MY NAME IS MAKSYM!</p>
 
 </br>
-<p align="left">I'm a <b>Self-Taught Full Stack Developer</b> with expertise in TypeScript, React, Next.js, Node.js and database technologies utilizing Prisma for efficient data access. My background consists of strong <b>Networking</b> and <b>Web Development</b> knowledge.
-A deep dive into essential functionality is very engaging to me.</br> I really like to know <b>HOW</b> things work 🙇🏻‍♂️</br> Besides building and following coding stuff I'm a huge fan of cinema 🎥, music 🎧 and nature🌲🌳</p>
+<p align="left">I'm a <b>Self-Taught Full Stack Developer</b> with expertise in various web technologies. My background consists of strong <b>Networking</b>, <b>Web Development</b> and <b>Problem-solving</b> skills.</br> Currently I'm digging into Next.js, utizing latest technologies that help me create robust and <i>blazingly</i> fast websites.
 
 <br>
 <br>
-⠀╱|、 ㅤ the road wasn't long,<br>
-(˚ˎ 。7 ㅤ and i knew i'd be getting off soon but at that moment,<br>
-|、˜〵 ㅤ i felt such warmth<br>
+⠀╱|、 ㅤ <br>
+(˚ˎ 。7 ㅤ <br>
+|、˜〵 ㅤ <br>
 じしˍ,)ノ<br>
 <br>
 
 
 <p>
   <img src="https://github-readme-streak-stats-kv.vercel.app?user=bbyc4kes&theme=tokyonight_duo&hide_border=true" width="48%" alt="Maksym's github-readme-streak-stats"/>
-  <img width="40%" src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=bbyc4kes&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="bbyc4kes" />
+  <img width="35%" src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=bbyc4kes&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="bbyc4kes" />
 </p>
 
-#### HIT ME UP:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=LinkedIn&labelColor=0A66C2&logoColor=white)](https://www.linkedin.com/in/maksym-azimov-770aa22aa/)
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=for-the-badge&logo=Telegram&labelColor=2CA5E0&logoColor=white)](https://t.me/bbyc4kes)

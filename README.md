@@ -14,7 +14,7 @@
 
 <p>
   <img src="https://github-readme-streak-stats-kv.vercel.app?user=bbyc4kes&theme=tokyonight_duo&hide_border=true" width="48%" alt="Maksym's github-readme-streak-stats"/>
-  <img width="35%" src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=bbyc4kes&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="bbyc4kes" />
+  <img width="38%" src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=bbyc4kes&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="bbyc4kes" />
 </p>
 
 

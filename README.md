@@ -1,7 +1,7 @@
 ### <p align="left"> HI 👋,  MY NAME IS MAKSYM!</p>
 
 </br>
-<p align="left">I'm a <b>Self-Taught Full Stack Developer</b> with expertise in various web technologies.</br> My background consists of strong <b>Networking</b>, <b>Web Development</b> and <b>Problem-solving</b> skills.</br> Currently I'm digging into Next.js, utizing latest technologies that help me create robust and <i>blazingly</i> fast websites.
+<p align="left">I'm a <b>Self-Taught Full Stack Developer</b> with expertise in various web technologies.</br> My background consists of strong <b>Networking</b>, <b>Web Development</b> and <b>Problem-solving</b> skills.</br> Currently I'm digging into Next.js, utilizing latest technologies that help me create robust and <i>blazingly</i> fast websites.
 
 <br>
 <br>

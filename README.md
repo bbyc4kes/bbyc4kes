@@ -1,22 +1,8 @@
-### <p align="left"> HI 👋,  MY NAME IS MAKSYM!</p>
-
-</br>
-<p align="left">I'm a <b>Self-Taught Full Stack Developer</b> with expertise in various web technologies.<br> My background consists of strong <b>Networking</b>, <b>Web Development</b> and <b>Problem-solving</b> skills.<br> Currently, I'm digging into Golang & TypeScript w/ Next.js, utilizing latest technologies that help me create robust and <i>blazingly</i> fast websites.
-
-<br>
-
-
-<p>
-  <img width="38%" src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=bbyc4kes&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="bbyc4kes" />
-</p>
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=LinkedIn&labelColor=0A66C2&logoColor=white)](https://www.linkedin.com/in/maksym-azimov-770aa22aa/)
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=for-the-badge&logo=Telegram&labelColor=2CA5E0&logoColor=white)](https://t.me/bbyc4kes)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=Gmail&labelColor=EA4335&logoColor=white)](mailto:azimov.workspace@gmail.com)
 </br> 
-
-#### MAIN TECHNOLOGIES:
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&labelColor=black&color=3178C6)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&labelColor=000000&color=white)

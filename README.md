@@ -1,9 +1,9 @@
-
+#### hit me up:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=LinkedIn&labelColor=0A66C2&logoColor=white)](https://www.linkedin.com/in/maksym-azimov-770aa22aa/)
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=for-the-badge&logo=Telegram&labelColor=2CA5E0&logoColor=white)](https://t.me/bbyc4kes)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=Gmail&labelColor=EA4335&logoColor=white)](mailto:azimov.workspace@gmail.com)
 </br> 
-
+#### profoundly skilled at:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&labelColor=black&color=3178C6)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&labelColor=000000&color=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-61DBFB?style=for-the-badge&logo=JavaScript&labelColor=black&color=yellow)
@@ -14,8 +14,12 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&labelColor=black&color=336791)
 ![PostgreSQL](https://img.shields.io/badge/MySQL-336791?style=for-the-badge&logo=mysql&labelColor=black&color=336791)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&labelColor=black&color=2D3748)
+![ShadCN](https://img.shields.io/badge/ShadCN-18181B?style=for-the-badge&labelColor=black&color=18181B)
+![Zustand](https://img.shields.io/badge/Zustand-333333?style=for-the-badge&labelColor=black&color=333333)
 ![Static Badge](https://img.shields.io/badge/Redux-FFFFFF?style=for-the-badge&logo=Redux&labelColor=black&color=violet)
 ![Headless UI](https://img.shields.io/badge/Headless_UI-38B2AC?style=for-the-badge&labelColor=black&color=38B2AC)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&labelColor=black&color=FF4154)
+![TanStack Table](https://img.shields.io/badge/TanStack%20Table-007ACC?style=for-the-badge&labelColor=black&color=007ACC)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&labelColor=black&color=0055FF)
 ![Sass](https://img.shields.io/badge/Styled%20components-FFFFFF?style=for-the-badge&logo=Styled%20Components&labelColor=black&color=rgb(191%2C%2079%2C%20116))
 ![Static Badge](https://img.shields.io/badge/Sass-FFFFFF?style=for-the-badge&logo=Sass&labelColor=black&color=rgb(204%2C%20102%2C%20153))
